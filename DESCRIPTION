@@ -1,0 +1,11 @@
+Package: misc
+Type: Package
+Title: Useful functions
+Version: 0.1.0
+Author: Adrian Rauchfleisch
+Maintainer: The package maintainer <adrian.rauchfleisch@gmail.com>
+Description: Collection of useful functions.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1

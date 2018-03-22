@@ -1,0 +1,14 @@
+## Useful functions
+
+Just a collection of useful functions I want to share
+
+## How to install the package
+
+- To install the Github version of the package:
+  - Install devtools `if(!require("devtools")) install.packages("devtools")`
+  - Start a new session, load devtools, and install misc from Github.
+  - `library(devtools)`
+  - `install_github("adrauc/misc")`
+- Now you can load the library:
+  - `library(misc)`
+- That's it, you can now use the functions in the package.
